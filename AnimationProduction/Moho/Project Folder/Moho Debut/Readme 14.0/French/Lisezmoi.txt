@@ -1,0 +1,81 @@
+﻿------------------------------------------------------------------- 
+Moho® 14 par Lost Marble LLC
+------------------------------------------------------------------- 
+
+Merci d'avoir acheté Moho® 14 de Lost Marble LLC ! Ce Lisez-moi contient des informations importantes sur votre nouveau logiciel.
+
+
+------------------------------------------
+Contenu :
+------------------------------------------
+
+- L'engagement de Lost Marble
+
+- Enregistrement de Moho® 14
+
+- Distribution du contenu
+
+- Configuration requise
+
+- Assistance technique
+
+- Avis sur les droits d'auteur et les marques de commerce
+
+
+------------------------------------------
+L'engagement de Lost Marble
+------------------------------------------
+Dans le cadre de nos efforts pour respecter notre engagement envers nos clients, nous publions régulièrement des mises à jour pour nos produits. Veuillez visiter www.lostmarble.com/updates pour vérifier les mises à jour.
+
+
+------------------------------------------
+Enregistrement de Moho® 14
+------------------------------------------
+
+L'enregistrement du produit Moho® 14 se fait pendant le processus d'installation.
+
+
+------------------------------------------
+Distribution du contenu
+------------------------------------------
+
+Veuillez vous reporter à la section 5 ("Licence de contenu") du contrat de licence de l'utilisateur final ("CLUF") de Moho inclus avec ce logiciel pour plus d'informations sur la modification et la distribution du contenu Moho existant.
+
+
+------------------------------------------
+Configuration requise
+------------------------------------------
+
+Windows : 
+*Windows® 10, 11 ou supérieur
+
+Macintosh : 
+*macOS® 10.15, 10.16 ou supérieur
+
+Configuration commune pour Windows et Macintosh :
+*Système d'exploitation 64 bits requis
+*Intel Core i3 à 2,0 GHz ou supérieur 
+*4 Go de RAM ou plus
+*1,6 Go d'espace libre sur le disque dur ou plus
+*Carte graphique compatible OpenGL 4.1 requise (1920x1080 recommandé)**.
+*Connexion Internet requise pour l'activation du produit
+
+**Pour les écrans à haute densité de pixels, la résolution minimale varie en fonction du niveau de mise à l'échelle recommandé par le système d'exploitation. Par exemple, si le système d'exploitation recommande une mise à l'échelle de 200 %, la résolution minimale requise peut atteindre 2736 x 1824. Ou si le système d'exploitation recommande un niveau de mise à l'échelle de 150%, la résolution minimale requise peut être de 2160x1440.
+
+
+------------------------------------------
+Support technique
+------------------------------------------
+
+
+Pour obtenir des informations actualisées sur Moho, les FAQ, les problèmes connus, les notes de mise à jour et l'assistance technique, rendez-vous sur : www.lostmarble.com/support.
+
+
+------------------------------------------
+Droits d'auteur et marques déposées
+------------------------------------------
+
+Lost Marble, Anime Studio, Moho, Moho Debut et Moho Pro sont des marques déposées de Lost Marble LLC.  Tous les autres noms de produits mentionnés dans le logiciel, la documentation ou d'autres documents sont utilisés à des fins d'identification uniquement et peuvent être des marques commerciales ou des marques déposées de leurs sociétés respectives. Les marques déposées et non déposées utilisées dans ce document sont la propriété exclusive de leurs propriétaires respectifs. Vous n'êtes pas autorisé à supprimer, modifier, altérer, couvrir ou défigurer les marques, noms commerciaux, noms de produits, logos, droits d'auteur ou autres avis de propriété, légendes, symboles ou étiquettes du logiciel et de la documentation.  De plus, toute référence à des produits commerciaux, des processus ou des services de tiers par le biais de noms commerciaux, de marques de commerce, de logos et de noms de sociétés et/ou de produits/services mentionnés ou affichés dans le logiciel (et dans toute documentation et matériel connexes sous quelque forme que ce soit) ne constitue ni n'implique l'approbation, la recommandation ou la faveur de Lost Marble ou de l'un de ses fournisseurs/licencieurs.
+
+
+Version :  20230818

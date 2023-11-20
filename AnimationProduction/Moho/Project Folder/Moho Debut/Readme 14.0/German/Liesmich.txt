@@ -1,0 +1,81 @@
+------------------------------------------------------------------- 
+Moho® 14 von Lost Marble LLC
+------------------------------------------------------------------- 
+
+Vielen Dank, dass Sie sich für Moho® 14 von Lost Marble LLC entschieden haben! Diese Readme enthält wichtige Informationen zu Ihrer neuen Software.
+
+
+------------------------------------------
+Inhalt
+------------------------------------------
+
+- Die Lost Marble-Verpflichtung
+
+- Registrierung von Moho® 14
+
+- Verteilung von Inhalten
+
+- Systemvoraussetzungen
+
+- Technische Unterstützung
+
+- Copyright & Markenzeichen Hinweis
+
+
+------------------------------------------
+Die Verpflichtung der verlorenen Murmel
+------------------------------------------
+In unserem Bestreben, unsere Verpflichtung gegenüber unseren Kunden zu erfüllen, veröffentlichen wir laufend Aktualisierungen für unsere Produkte. Bitte besuchen Sie www.lostmarble.com/updates, um sich über Updates zu informieren.
+
+
+------------------------------------------
+Registrierung von Moho® 14
+------------------------------------------
+
+Die Moho® 14 Produktregistrierung erfolgt während des Installationsprozesses.
+
+
+------------------------------------------
+Verteilung von Inhalten
+------------------------------------------
+
+Bitte lesen Sie Abschnitt 5 ("Inhaltslizenz") des Moho - Endbenutzer-Lizenzvertrags ("EULA"), der dieser Software beiliegt, um weitere Informationen über die Modifizierung und Verteilung von bestehenden Moho-Inhalten zu erhalten.
+
+
+------------------------------------------
+Systemvoraussetzungen
+------------------------------------------
+
+Windows: 
+*Windows® 10, 11 oder höher
+
+Macintosh: 
+*macOS® 10.15, 10.16 oder höher
+
+Gemeinsame Voraussetzungen für Windows und Macintosh:
+*64-Bit-Betriebssystem erforderlich
+*2,0 GHz Intel Core i3 oder höher 
+*4 GB RAM oder höher
+*1,6 GB freier Festplattenspeicher oder höher
+*OpenGL 4.1 unterstützte Grafikkarte erforderlich (1920x1080 empfohlen)**
+*Internetverbindung für die Produktaktivierung erforderlich
+
+**Bei Bildschirmen mit hoher Pixeldichte hängt die Mindestauflösung von der empfohlenen Skalierungsstufe des Betriebssystems ab. Wenn das Betriebssystem z. B. eine Skalierungsstufe von 200 % empfiehlt, kann die Mindestanforderung eine Auflösung von 2736 x 1824 betragen. Oder wenn das Betriebssystem eine Skalierungsstufe von 150 % empfiehlt, kann die Mindestanforderung bis zu einer Auflösung von 2160 x 1440 betragen.
+
+
+------------------------------------------
+Technische Unterstützung
+------------------------------------------
+
+
+Aktuelle Informationen zu Moho, FAQ's, Know Issues, Release Notes und technischen Support finden Sie unter: www.lostmarble.com/support.
+
+
+------------------------------------------
+Copyright & Markenzeichen Hinweis
+------------------------------------------
+
+Lost Marble, Anime Studio, Moho, Moho Debut und Moho Pro sind Warenzeichen von Lost Marble LLC.  Alle anderen Produktnamen, die in der Software, der Dokumentation oder anderen Unterlagen erwähnt werden, werden nur zu Identifikationszwecken verwendet und können Marken oder eingetragene Marken der jeweiligen Unternehmen sein. Eingetragene und nicht eingetragene Warenzeichen, die hier verwendet werden, sind das ausschließliche Eigentum der jeweiligen Inhaber. Sie sind nicht berechtigt, Markenzeichen, Handelsnamen, Produktnamen, Logos, Urheberrechts- oder andere Eigentumshinweise, Legenden, Symbole oder Etiketten in der Software und der Dokumentation zu entfernen, zu modifizieren, zu verändern, zu verdecken oder zu verunstalten.  Darüber hinaus stellt jede Bezugnahme auf kommerzielle Produkte, Prozesse oder Dienstleistungen Dritter durch Handelsnamen, Marken, Logos und Firmen- und/oder Produkt-/Dienstleistungsnamen, die in der Software (und in der zugehörigen Dokumentation und den Materialien in jeglicher Form) erwähnt oder angezeigt werden, keine Billigung, Empfehlung oder Bevorzugung durch Lost Marble oder einen seiner Lieferanten/Lizenzgeber dar.
+
+
+Version: 20230818

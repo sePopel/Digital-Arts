@@ -1,0 +1,81 @@
+﻿------------------------------------------------------------------- 
+Moho® 14 de Lost Marble LLC
+------------------------------------------------------------------- 
+
+Gracias por comprar Moho® 14 de Lost Marble LLC. Este readme incluye información importante sobre su nuevo software.
+
+
+------------------------------------------
+Contents
+------------------------------------------
+
+- El compromiso de Lost Marble
+
+- Registrarse en Moho® 14
+
+- Distribución de contenidos
+
+- Requisitos del sistema
+
+- Soporte técnico
+
+- Aviso de derechos de autor y marcas comerciales
+
+
+------------------------------------------
+El compromiso de Lost Marble
+------------------------------------------
+En nuestro esfuerzo por cumplir con nuestro compromiso con los clientes, publicamos actualizaciones de nuestros productos de forma continua. Visite www.lostmarble.com/updates para comprobar las actualizaciones.
+
+
+------------------------------------------
+Registrarse en Moho® 14
+------------------------------------------
+
+El registro del producto Moho® 14 se produce durante el proceso de instalación.
+
+
+------------------------------------------
+Distribución de contenidos
+------------------------------------------
+
+Consulte la sección 5 ("Licencia de contenido") del Acuerdo de licencia de usuario final ("EULA") de Moho que se incluye con este software para obtener más información sobre la modificación y distribución del contenido existente de Moho.
+
+
+------------------------------------------
+Requisitos del sistema
+------------------------------------------
+
+Windows: 
+*Windows® 10, 11 o superior
+
+Macintosh: 
+*macOS® 10.15, 10.16 o superior
+
+Requisitos comunes para Windows y Macintosh:
+*Sistema operativo de 64 bits requerido
+*Core i3 de Intel a 2,0 GHz o superior 
+*4 GB de RAM o superior
+*1,6 GB de espacio libre en el disco duro o superior
+*Se requiere una tarjeta gráfica compatible con OpenGL 4.1 (se recomienda 1920x1080)**.
+*Se requiere conexión a Internet para la activación del producto
+
+**En el caso de las pantallas de alta densidad de píxeles, la resolución mínima variará en función del nivel de escalado recomendado por el sistema operativo. Por ejemplo, si el sistema operativo recomienda un nivel de escalado del 200%, el requisito mínimo puede ser una resolución de 2736x1824. O si el sistema operativo recomienda un nivel de escalado del 150%, el requisito mínimo puede ser una resolución de 2160x1440.
+
+
+------------------------------------------
+Soporte técnico
+------------------------------------------
+
+
+Para obtener información actualizada sobre Moho, preguntas frecuentes, problemas conocidos, notas de la versión y soporte técnico, visite: www.lostmarble.com/support.
+
+
+------------------------------------------
+Aviso de derechos de autor y marcas comerciales
+------------------------------------------
+
+Lost Marble, Anime Studio, Moho, Moho Debut y Moho Pro son marcas comerciales de Lost Marble LLC.  Todos los demás nombres de productos mencionados en el software, la documentación u otra documentación se utilizan únicamente con fines de identificación y pueden ser marcas comerciales o marcas registradas de sus respectivas empresas. Las marcas registradas y no registradas utilizadas en este documento son propiedad exclusiva de sus respectivos propietarios. No puede eliminar, modificar, alterar, cubrir o desfigurar ninguna marca comercial, nombres comerciales, nombres de productos, logotipos, derechos de autor u otros avisos de propiedad, leyendas, símbolos o etiquetas en el Software y la Documentación.  Además, cualquier referencia a productos, procesos o servicios comerciales de terceros por nombre comercial, marca registrada, logotipo y nombres de empresas y/o productos/servicios mencionados o mostrados en el Software (y en cualquiera de sus documentaciones y materiales relacionados de cualquier forma) no constituye ni implica el respaldo, la recomendación o el favorecimiento de Lost Marble o de cualquiera de sus proveedores/licenciantes.
+
+
+Versión: 20230818
